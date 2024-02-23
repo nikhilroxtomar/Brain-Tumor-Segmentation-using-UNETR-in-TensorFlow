@@ -1,6 +1,5 @@
 # Brain-Tumor-Segmentation-using-UNETR-in-TensorFlow
 This repository demonstrates the utilization of UNETR for brain tumor segmentation.
-.
 
 ## Architecture
 
